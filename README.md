@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Gopichand Pujari  
+### Java Developer | Spring Boot | Microservices | Docker | SQL | Blockchain Learner
 
-<!--
-**chandu-ronaldo/chandu-ronaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about backend development & clean architecture  
+⚙️ Building Java/Spring Boot applications  
+🐳 Learning containerization & deployment (Docker/Kubernetes)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+**Languages:** Java, JavaScript  
+**Backend:** Spring Boot, Microservices  
+**Databases:** MySQL, PostgreSQL  
+**Tools:** Git, Docker, Maven  
+
+---
+
+## 📌 Popular Projects  
+- 💬 Chat Application (HTML, JS)  
+- ➗ Calculator (Java)  
+- 🌦 Dockerized Microservices  
+- 🔐 ThreatX Backend  
+
+---
+
+## 📫 Connect  
+LinkedIn: https://linkedin.com/in/your-link
