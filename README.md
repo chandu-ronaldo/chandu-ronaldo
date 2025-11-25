@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Actively+Seeking+Cybersecurity+Roles;Immediate+Joiner;Java+%7C+Spring+Boot+%7C+Cybersecurity+Enthusiast"
+    alt="Typing SVG"
+  />
+</p>
+
 # 👋 Hi, I'm Gopichand Pujari  
 ### Java Developer | Spring Boot | Microservices | Docker | SQL | Blockchain Learner
 
